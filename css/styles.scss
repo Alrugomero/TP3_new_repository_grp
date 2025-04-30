@@ -21,3 +21,13 @@ header, footer
     padding: 15px;
     text-align: center;
 }
+
+form label, form input {
+    display: block;
+}
+
+.error{
+    font-size: 20px;
+    font-weight: 700;
+    color: red;
+}
